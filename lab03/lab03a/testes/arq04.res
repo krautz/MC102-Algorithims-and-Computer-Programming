@@ -1,0 +1,19 @@
+Total: 1 individuos
+Total da casta 1: 1
+Total da casta 2: 0
+Total da casta 3: 0
+Total da casta 4: 0
+Total da casta 5: 0
+Total da casta 6: 0
+Total da casta 7: 0
+Total da casta 8: 0
+Total da casta 9: 0
+Percentual da casta 1: 100.00
+Percentual da casta 2: 0.00
+Percentual da casta 3: 0.00
+Percentual da casta 4: 0.00
+Percentual da casta 5: 0.00
+Percentual da casta 6: 0.00
+Percentual da casta 7: 0.00
+Percentual da casta 8: 0.00
+Percentual da casta 9: 0.00
